@@ -178,6 +178,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎉 Acknowledgements  
 - Special thanks to the open-source community and the contributors of the libraries used in this project.  
 
----
-
-This README is designed to be **recruiter-friendly** by clearly showcasing your technical expertise in MLOps, cloud deployments, and CI/CD best practices. If you want to add more sections or make any edits, let me know!
